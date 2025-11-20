@@ -3,30 +3,25 @@ const __vite__mapDeps = (
   m = __vite__mapDeps,
   d = m.f ||
     (m.f = [
-      '.https://pfixer.github.io/DesharmonieTavernCards/nodes/0.D39PYRZu.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/Bb_44-Vf.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/DOz-poEg.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/CYHURk-R.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/DL8UqIXJ.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/assets/app.sC44z-Mt.css',
-      '.https://pfixer.github.io/DesharmonieTavernCards/nodes/1.tBW5oLLj.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/BoHxoC7j.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/D4UjhmCe.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/B_knLTDB.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/7BBL4D0t.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/nodes/2.D9PmFJDq.js',
-      '.https://pfixer.github.io/DesharmonieTavernCards/chunks/SrmRsZRG.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/nodes/0.D39PYRZu.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/Bb_44-Vf.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/DOz-poEg.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/CYHURk-R.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/DL8UqIXJ.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/assets/app.sC44z-Mt.css',
+      'https://pfixer.github.io/DesharmonieTavernCards/nodes/1.tBW5oLLj.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/BoHxoC7j.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/D4UjhmCe.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/B_knLTDB.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/7BBL4D0t.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/nodes/2.D9PmFJDq.js',
+      'https://pfixer.github.io/DesharmonieTavernCards/chunks/SrmRsZRG.js',
     ]),
 ) => i.map(i => d[i]);
-import { o as Le } from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/7BBL4D0t.js';
-import { t as Ie, a as R, c as T, f as U } from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/Bb_44-Vf.js';
-import { B as Ae } from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/CYHURk-R.js';
-import {
-  u as Oe,
-  m as Re,
-  h as Se,
-  s as we,
-} from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/D4UjhmCe.js';
+import { o as Le } from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/7BBL4D0t.js';
+import { t as Ie, a as R, c as T, f as U } from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/Bb_44-Vf.js';
+import { B as Ae } from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/CYHURk-R.js';
+import { u as Oe, m as Re, h as Se, s as we } from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/D4UjhmCe.js';
 import {
   aT as $,
   b1 as A,
@@ -66,8 +61,8 @@ import {
   w as ve,
   G as w,
   K as ye,
-} from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/DOz-poEg.js';
-import { b as j, i as x } from '.https://pfixer.github.io/DesharmonieTavernCards/chunks/SrmRsZRG.js';
+} from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/DOz-poEg.js';
+import { b as j, i as x } from 'https://pfixer.github.io/DesharmonieTavernCards/chunks/SrmRsZRG.js';
 function D(r, e, a) {
   G && W();
   const c = new Ae(r);
@@ -410,19 +405,19 @@ const Ze = xe(Ne),
   Je = [
     () =>
       C(
-        () => import('.https://pfixer.github.io/DesharmonieTavernCards/nodes/0.D39PYRZu.js'),
+        () => import('https://pfixer.github.io/DesharmonieTavernCards/nodes/0.D39PYRZu.js'),
         __vite__mapDeps([0, 1, 2, 3, 4, 5]),
         import.meta.url,
       ),
     () =>
       C(
-        () => import('.https://pfixer.github.io/DesharmonieTavernCards/nodes/1.tBW5oLLj.js'),
+        () => import('https://pfixer.github.io/DesharmonieTavernCards/nodes/1.tBW5oLLj.js'),
         __vite__mapDeps([6, 1, 2, 7, 8, 9, 10]),
         import.meta.url,
       ),
     () =>
       C(
-        () => import('.https://pfixer.github.io/DesharmonieTavernCards/nodes/2.D9PmFJDq.js'),
+        () => import('https://pfixer.github.io/DesharmonieTavernCards/nodes/2.D9PmFJDq.js'),
         __vite__mapDeps([11, 1, 2, 7, 10, 8, 12, 3, 4, 5]),
         import.meta.url,
       ),
